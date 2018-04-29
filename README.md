@@ -21,7 +21,7 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
-###Credits:
+Credits:
 
    Demo Images:
 		Unsplash (unsplash.com)
