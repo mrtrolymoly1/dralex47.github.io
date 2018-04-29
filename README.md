@@ -24,13 +24,13 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-Demo Images:
+    Demo Images:
 		Unsplash (unsplash.com)
 
-Icons:
+	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-Other:
+	Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		background-size polyfill (github.com/louisremi)
