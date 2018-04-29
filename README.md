@@ -22,9 +22,9 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+###Credits:
 
-    Demo Images:
+   Demo Images:
 		Unsplash (unsplash.com)
 
 	Icons:
