@@ -36,3 +36,6 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+		
+		
+Update: 0.7🚫No Downloading the files!!!
