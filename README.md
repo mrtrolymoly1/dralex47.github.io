@@ -38,4 +38,4 @@ Credits:
 		Skel (skel.io)
 		
 		
-Update: 0.7🚫No Downloading the files!!!
+Update: 0.7🚫No Downloading the files
