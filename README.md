@@ -1,4 +1,4 @@
-# dralex47.github.io[![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
+# dralex47.github.io(dralex47.github.io) [![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
 ### My website Coming Soon!!!
 **Update:** 0.7 🚫No Downloading the files🚫
 
