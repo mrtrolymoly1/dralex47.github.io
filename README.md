@@ -1,5 +1,4 @@
-[![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
-# dralex47.github.io
+# dralex47.github.io[![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
 ### My website Coming Soon!!!
 ![ggggg](https://user-images.githubusercontent.com/34045802/39402315-6d429d5c-4b53-11e8-9d6a-42913d18a5d5.png)
 https://html5up.net/
