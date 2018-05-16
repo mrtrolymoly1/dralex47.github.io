@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
+[![Release](https://github.com/dralex47/dralex47.github.io/releases/latest)
 [![License](https://img.shields.io/github/license/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/blob/master/LICENSE)
 [![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
 # dralex47.github.io
