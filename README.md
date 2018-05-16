@@ -1,3 +1,6 @@
+[![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
+[![License](https://img.shields.io/github/license/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/blob/master/LICENSE)
+[![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/0p9LSGoRLu6Pet0k)
 # dralex47.github.io
 ### My website Coming Soon!!!
 ![ggggg](https://user-images.githubusercontent.com/34045802/39402315-6d429d5c-4b53-11e8-9d6a-42913d18a5d5.png)
