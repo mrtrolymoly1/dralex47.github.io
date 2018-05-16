@@ -1,4 +1,3 @@
-[![Release](https://github.com/dralex47/dralex47.github.io/releases/tag/0.6)
 [![Discord](https://discordapp.com/api/guilds/337749515711021056/widget.png)](https://discord.gg/zkBauuk)
 # dralex47.github.io
 ### My website Coming Soon!!!
